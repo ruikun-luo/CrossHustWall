@@ -1,5 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # First revision: 2022-11-08
+# Second revision: 2023-02-13
 name: CI
 
 # Controls when the action will run. Triggers the workflow on push or pull request
